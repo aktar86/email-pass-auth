@@ -7,3 +7,14 @@
  * 2. already have an account.m second time
  * sign in === login
  */
+
+
+
+
+
+
+
+/**
+ * Client Side Validation
+ * like Email Field 
+ */
